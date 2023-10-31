@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2400 2400" style="enable-background:new 0 0 2400 2400;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g id="Layer_4" class="st0">
+	<rect class="st1" width="2400" height="2400"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<circle cx="1200" cy="1200" r="1200"/>
+	</g>
+</g>
+<g id="Layer_3" class="st0">
+</g>
+<g id="Layer_5">
+	<path class="st2" d="M1791.1,1559.9"/>
+	<polygon class="st2" points="954.1,840.9 182.1,840.9 182.1,972.9 472.6,1188.9 182.1,1188.9 182.1,1320.9 650.1,1320.9 
+		650.1,1188.9 359.6,972.9 954.1,972.9 	"/>
+	<polygon class="st2" points="1296.1,1014.9 1296.1,1188.9 1077.1,1014.9 1020.1,1014.9 1020.1,1320.9 1077.1,1320.9 1077.1,1146.9 
+		1296.1,1320.9 1353.1,1320.9 1353.1,1014.9 	"/>
+	<polygon class="st2" points="2217.1,972.9 2217.1,840.9 2070.6,1042.8 1868.1,840.9 1791.1,840.9 1589.1,972.9 1868.1,972.9 
+		2015,1119.4 1791.1,1427.9 1020.1,1427.9 1020.1,1559.9 1791.1,1559.9 2070.6,1174.8 2160.1,1264.1 2160.1,1559.9 2217.1,1559.9 
+		2217.1,1320.9 2217.1,1188.9 2217.1,1187.9 2216.1,1187.9 2126.2,1098.2 	"/>
+	<polygon class="st2" points="1712.1,840.9 1462.1,840.9 1405.1,840.9 1020.1,840.9 1020.1,972.9 1405.1,972.9 1405.1,1320.9 
+		1462.1,1320.9 1462.1,972.9 1512.1,972.9 	"/>
+	<path class="st2" d="M1734.1,1014.9l-222,174v132h222h57v-132v-174H1734.1z M1589.1,1188.9l145-109v109H1589.1z"/>
+	<polygon class="st2" points="897.1,1014.9 897.1,1188.9 759.1,1188.9 759.1,1014.9 702.1,1014.9 702.1,1188.9 702.1,1320.9 
+		759.1,1320.9 897.1,1320.9 897.1,1427.9 183.1,1427.9 183.1,1559.9 897.1,1559.9 954.1,1559.9 954.1,1427.9 954.1,1320.9 
+		954.1,1188.9 954.1,1014.9 	"/>
+</g>
+<g id="Layer_2" class="st0">
+	<polygon class="st1" points="1722,1079 1577,1188 1500,1188 1722,1014 	"/>
+	<polygon class="st1" points="1065,1014 1284,1188 1284,1320 1065,1146 	"/>
+	<polygon class="st1" points="1856,840 2205,1188 2205,1320 1856,972 	"/>
+	<polyline class="st1" points="1779,1427 2205,840 2205,972 1779,1559 1779,1427 	"/>
+	<path class="st1" d="M1779,1559"/>
+	<rect x="170" y="840" class="st1" width="772" height="132"/>
+	<rect x="170" y="1188" class="st1" width="468" height="132"/>
+	<rect x="1008" y="1427" class="st1" width="771" height="132"/>
+	<rect x="171" y="1427" class="st1" width="771" height="132"/>
+	<polygon class="st1" points="1856,972 1577,972 1779,840 1856,840 	"/>
+	<polygon class="st1" points="1500,972 1008,972 1008,840 1700,840 	"/>
+	<rect x="1500" y="1188" class="st1" width="279" height="132"/>
+	<rect x="690" y="1188" class="st1" width="252" height="132"/>
+	<polygon class="st1" points="170,840 638,1188 638,1320 170,972 	"/>
+	<rect x="885" y="1014" class="st1" width="57" height="545"/>
+	<rect x="1284" y="1014" class="st1" width="57" height="306"/>
+	<rect x="1008" y="1014" class="st1" width="57" height="306"/>
+	<rect x="2148" y="1187" class="st1" width="57" height="372"/>
+	<rect x="1393" y="840" class="st1" width="57" height="480"/>
+	<rect x="1722" y="1014" class="st1" width="57" height="306"/>
+	<rect x="690" y="1014" class="st1" width="57" height="306"/>
+</g>
+</svg>
